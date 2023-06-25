@@ -66,8 +66,6 @@ I'm Zi Xuan, a computer science undergraduate from the National University of Si
             width="40" height="40" />&nbsp;
     </div>
 
-    <br />
-
     <div>Frameworks and libraries:</div>
     <div class="iconGroup">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring"
@@ -85,8 +83,6 @@ I'm Zi Xuan, a computer science undergraduate from the National University of Si
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="React"
             alt="React" width="40" height="40" />&nbsp;
     </div>
-
-    <br />
 
     <div>Other tools:</div>
     <div class="iconGroup">
