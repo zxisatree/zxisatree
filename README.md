@@ -1,3 +1,10 @@
+### Hi there! 👋
+
+I'm Zi Xuan, a computer science undergraduate from the National University of Singapore.
+
+[![zxisatree's GitHub stats](https://github-readme-stats.vercel.app/api?username=zxisatree&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![zxisatree's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zxisatree&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats) -->
+
 <style>
     div {
         font-family: 'Raleway', Helvetica, sans-serif;
@@ -17,13 +24,6 @@
         gap: 5px;
     }
 </style>
-
-### Hi there! 👋
-
-I'm Zi Xuan, a computer science undergraduate from the National University of Singapore.
-
-[![zxisatree's GitHub stats](https://github-readme-stats.vercel.app/api?username=zxisatree&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-<!-- [![zxisatree's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zxisatree&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <body>
     <div class="container">
