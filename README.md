@@ -5,29 +5,9 @@ I'm Zi Xuan, a computer science undergraduate from the National University of Si
 [![zxisatree's GitHub stats](https://github-readme-stats.vercel.app/api?username=zxisatree&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![zxisatree's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zxisatree&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<style>
-    div {
-        font-family: 'Raleway', Helvetica, sans-serif;
-        font-size: larger;
-    }
-    .container {
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-        gap: 10px;
-    }
-    .iconGroup {
-        width: 100%;
-        display: flex;
-        justify-content: center;
-        gap: 5px;
-    }
-</style>
-
 <body>
     <div class="container">
-        <div>Languages:</div>
+        <h3>Languages:</h3>
         <div class="iconGroup">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"
                 alt="Python" width="40" height="40" />&nbsp;
@@ -49,7 +29,7 @@ I'm Zi Xuan, a computer science undergraduate from the National University of Si
                 width="40" height="40" />&nbsp;
         </div>
         <br />
-        <div>Frameworks and libraries:</div>
+        <h3>Frameworks and libraries:</h3>
         <div class="iconGroup">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring"
                 alt="Spring" width="40" height="40" />&nbsp;
@@ -67,7 +47,7 @@ I'm Zi Xuan, a computer science undergraduate from the National University of Si
                 alt="React" width="40" height="40" />&nbsp;
         </div>
         <br />
-        <div>Other tools:</div>
+        <h3>Other tools:</h3>
         <div class="iconGroup">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL"
                 alt="MySQL" width="40" height="40" />&nbsp;
