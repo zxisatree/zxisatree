@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Zi Xuan, a computer science undergraduate from the National University of Singapore.
+I'm Zi Xuan, a computer science undergraduate from the National University of Singapore. I primarily code in Python, but I enjoy dabbling with other programming languages in my free time!
 
 [![zxisatree's GitHub stats](https://github-readme-stats.vercel.app/api?username=zxisatree&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![zxisatree's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zxisatree&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats) -->
@@ -21,8 +21,6 @@ I'm Zi Xuan, a computer science undergraduate from the National University of Si
                 title="JavaScript" alt="JavaScript" width="40" height="40" />&nbsp;
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
                 title="TypeScript" alt="TypeScript" width="40" height="40" />&nbsp;
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" title="Haskell"
-                alt="Haskell" width="40" height="40" />&nbsp;
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5"
                 alt="HTML" width="40" height="40" />&nbsp;
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" title="CSS3" alt="CSS"
@@ -55,7 +53,7 @@ I'm Zi Xuan, a computer science undergraduate from the National University of Si
                 title="PostgreSQL" alt="PostgreSQL" width="40" height="40" />&nbsp;
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB"
                 alt="MongoDB" width="40" height="40" />&nbsp;
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
                 title="AWS" alt="AWS" width="40" height="40" />&nbsp;
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git"
                 width="40" height="40" />
