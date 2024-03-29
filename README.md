@@ -41,8 +41,10 @@ I'm Zi Xuan, a computer science undergraduate from the National University of Si
                 alt="Redux" width="40" height="40" />&nbsp;
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express"
                 alt="Express" width="40" height="40" />&nbsp;
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="React"
-                alt="React" width="40" height="40" />&nbsp;
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="NextJS"
+                alt="NextJS" width="40" height="40" />&nbsp;
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" title="Pandas"
+                alt="Pandas" width="40" height="40" />&nbsp;
         </div>
         <br />
         <h3>Other tools:</h3>
